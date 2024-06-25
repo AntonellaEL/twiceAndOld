@@ -1,0 +1,22 @@
+{
+  "name": "twiceasold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonellaEL/twiceAndOld.git"
+  },
+  "author": "Antonella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonellaEL/twiceAndOld/issues"
+  },
+  "homepage": "https://github.com/AntonellaEL/twiceAndOld#readme",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
